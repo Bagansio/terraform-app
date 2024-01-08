@@ -1,0 +1,6 @@
+[submodule "CF-manage-CE"]
+	path = CF-manage-CE
+	url = https://github.com/Bagansio/CF-manage-CE
+[submodule "http-status"]
+	path = http-status
+	url = https://github.com/Bagansio/http-status
